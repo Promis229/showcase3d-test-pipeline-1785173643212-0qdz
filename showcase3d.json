@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "slug": "test-pipeline-1785173643212",
+  "ownerId": null,
+  "productName": "Test Pipeline 1785173643212",
+  "whatsapp": null,
+  "style": "spiral",
+  "createdAt": "2026-07-27T17:34:03.217Z",
+  "updatedAt": "2026-07-27T17:34:29.626Z",
+  "steps": {
+    "analyze": {
+      "status": "done",
+      "at": "2026-07-27T17:34:03.230Z",
+      "durationMs": 1
+    },
+    "logo": {
+      "status": "done",
+      "at": "2026-07-27T17:34:03.234Z",
+      "durationMs": 1
+    },
+    "exploded": {
+      "status": "done",
+      "at": "2026-07-27T17:34:03.237Z",
+      "durationMs": 1
+    },
+    "video": {
+      "status": "done",
+      "at": "2026-07-27T17:34:09.494Z",
+      "durationMs": 6255
+    },
+    "frames": {
+      "status": "done",
+      "at": "2026-07-27T17:34:29.148Z",
+      "durationMs": 19647
+    },
+    "palette": {
+      "status": "done",
+      "at": "2026-07-27T17:34:29.191Z",
+      "durationMs": 35
+    },
+    "build": {
+      "status": "done",
+      "at": "2026-07-27T17:34:29.533Z",
+      "durationMs": 336
+    },
+    "deploy": {
+      "status": "done",
+      "at": "2026-07-27T17:34:29.626Z",
+      "durationMs": 86
+    }
+  },
+  "analysis": null,
+  "palette": {
+    "accent": "#eaab74",
+    "bg": "#0a0a0f",
+    "text": "#f5f5f7",
+    "raw": {
+      "byFrequency": [
+        "#a95e2c",
+        "#c37742",
+        "#b96833",
+        "#be6e39",
+        "#94572e"
+      ],
+      "bySaturation": [
+        "#eaab74",
+        "#e1a46f",
+        "#dd9f6a",
+        "#8a4a22",
+        "#a95e2c"
+      ]
+    },
+    "contrastTextBg": 18.14
+  },
+  "deploy": null,
+  "github": null,
+  "costEstimateUsd": 0
+}
